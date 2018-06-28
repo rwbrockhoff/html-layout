@@ -1,0 +1,73 @@
+.solidbox {
+    border: 4px solid black;
+    height: 25vh;
+    width: 95vw;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-bottom: 15px;
+    
+}
+
+purple {
+    width: 40px;
+    height: 100px;
+    background-color: purple;
+    margin: 0px 20px;
+    
+}
+
+green {
+    width: 300px;
+    height: 160px;
+    background-color: green;
+    margin: 0px 40px;
+}
+
+blue {
+    width: 160px;
+    height: 160px;
+    background-color: lightskyblue;
+    border-radius: 90px;
+}
+
+.dotbox {
+    border: 3px dotted black;
+    height: 30vh;
+    width: 95vw;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+vanilla {
+    background-color: lightgoldenrodyellow;
+    width: 1200px;
+    height: 170px;
+    margin: 0 auto;
+    margin-top: 25px;
+    box-shadow: 7px 7px;
+}
+
+.friendbox {
+    border: 2px solid grey;
+    height: 25vh;
+    width: 40vw;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+hello {
+    color: #4b0077;
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 25px;
+}
